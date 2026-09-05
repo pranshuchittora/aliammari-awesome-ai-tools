@@ -395,6 +395,7 @@ The fastest-moving corner of the field in 2026: autonomous and semi-autonomous s
 
 ### Development Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available natural-language web and mobile regression testing with execution memory.
 - [Vercel v0](https://v0.dev/) - AI-powered React component generator with shadcn/ui integration.
 - [Bolt.new](https://bolt.new/) - Full-stack web development with AI in browser-based environment.
 - [Tessl](https://www.tessl.io/) - Spec-driven development framework for AI-native coding with natural language specs.
