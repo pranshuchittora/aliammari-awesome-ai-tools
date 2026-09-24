@@ -1,0 +1,14 @@
+{
+  "name": "Agent QA",
+  "url": "https://github.com/vostride/agent-qa",
+  "description": "The self-improving QA agent for natural-language web and mobile tests, with memory from past runs and self-healing execution.",
+  "category": "code-generation-and-development",
+  "subcategory": {
+    "id": "development-tools",
+    "name": "Development Tools"
+  },
+  "order": 9999,
+  "openSource": null,
+  "pricing": null,
+  "status": "listed"
+}

@@ -24,7 +24,7 @@ const tools = defineCollection({
     source: z.object({
       kind: z.literal('readme-migration'),
       migratedAt: z.string(),
-    }),
+    }).optional(),
   }),
 });
 
